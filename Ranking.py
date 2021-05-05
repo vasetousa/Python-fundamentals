@@ -44,13 +44,16 @@ while True:
                     total_points[username] += points
                 low_points = False
 
-sorted_numbers = sorted(total_points.items(), key=lambda kvp: -kvp[1])
-sorted_users = sorted(valid_users_contest_data[username].items(), key=lambda kvp: -kvp[1], kvp[0])
+sorted_numbers = sorted(total_points.items(), key=lambda kvp: -kvp[1])  # sorting the total points
+sorted_users = sorted(valid_users_contest_data.items(), key=lambda kvp: kvp[0]) # sorting the dictionary with the contests
+
 
 print(f"Best candidate is {sorted_numbers[0][0]} with total {sorted_numbers[0][1]} points.")
 print("Ranking")
+for keys, values in sorted_users.items():
+    print(f'{keys}')
+    for kk, vv in values.items():
+        print(f'# {kk} -> {vv}')
 
-for key, dict_values in valid_users_contest_data.items():
-    for contest_from_dict, value in dict_values.items():
-        pass
-print()
+
+
