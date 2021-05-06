@@ -33,11 +33,12 @@ while True:
                                 else:
                                     low_points = True
                             else:
-                                valid_users_contest_data[username].update({contest: points})
-            else:
+                                if not low_points:
+                                    valid_users_contest_data[username].update({contest: points})
+            else:   # add the username to the dict
                 valid_users_contest_data[username] = {contest: points}
 
-            if username not in total_points:
+            if username not in total_points:    # add user points to the dict
                 total_points[username] = points
             else:
                 if not low_points:
@@ -45,15 +46,12 @@ while True:
                 low_points = False
 
 sorted_numbers = sorted(total_points.items(), key=lambda kvp: -kvp[1])  # sorting the total points
-sorted_users = sorted(valid_users_contest_data.items(), key=lambda kvp: kvp[0]) # sorting the dictionary with the contests
-
-
-print(f"Best candidate is {sorted_numbers[0][0]} with total {sorted_numbers[0][1]} points.")
-print("Ranking")
-for keys, values in sorted_users.items():
-    print(f'{keys}')
-    for kk, vv in values.items():
-        print(f'# {kk} -> {vv}')
-
-
-
+sorted_users = sorted(valid_users_contest_data.items(),
+                      key=lambda kvp: kvp[0])  # sorting the dictionary with the contests
+if valid_users_contest_data:
+    print(f"Best candidate is {sorted_numbers[0][0]} with total {sorted_numbers[0][1]} points.")
+    print("Ranking:")
+    for keys, values in sorted_users:
+        print(f'{keys}')
+        for kk, vv in sorted(values.items(), key=lambda kvp: -kvp[1]):
+            print(f'#  {kk} -> {vv}')
