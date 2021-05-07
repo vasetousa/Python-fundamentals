@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef24da03-855b-4156-b996-39203f952392" name="Default Changelist" comment="organizing" />
+    <list default="true" id="ef24da03-855b-4156-b996-39203f952392" name="Default Changelist" comment="amended folder">
+      <change afterPath="$PROJECT_DIR$/start/Ascii Sumator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ascii Sumator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CIrcle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Email.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Even Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extract Person Information.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes and Objects/Extract Person Information.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Party.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ranking.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes and Objects/Ranking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sli-do.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Snowwhite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes and Objects/Snowwhite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Iimitation Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists_dictionary/The Iimitation Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Treasure Finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists_dictionary/Treasure Finder.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +41,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Classes and Objects" />
+      <recent name="$PROJECT_DIR$/lists_dictionary" />
+      <recent name="$PROJECT_DIR$/start" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620417578781</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="amended folder">
+      <created>1620418125251</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620418125251</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,6 +96,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="organizing" />
-    <option name="LAST_COMMIT_MESSAGE" value="organizing" />
+    <MESSAGE value="amended folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="amended folder" />
   </component>
 </project>
