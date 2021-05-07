@@ -1,23 +1,339 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef24da03-855b-4156-b996-39203f952392" name="Default Changelist" comment="" />
+    <list default="true" id="ef24da03-855b-4156-b996-39203f952392" name="Default Changelist" comment="organizing">
+      <change afterPath="$PROJECT_DIR$/Problem conditions/01. Bonus Scoring System_01. Bonus Scoring System.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/01. Counter Strike_Problem_Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/01. Moon_Условие - PDF.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/01. National Court_01. National Court.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/01. Reverse Strings_Условия.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/02. Deer of Santa_Условие - PDF.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/02. MuOnline_02. MuOnline.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/02. Shoot for the Win_Problem_Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/02. Shoot for the Win_Problem_Description.pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/02. Shopping List_02. Shopping List.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/02. Shopping List_02. Shopping List.pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/02. Spaceship_Условие - PDF.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/03. Final Competition_Условие - PDF.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/03. Football Souvenirs_Условие - PDF.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/03. Inventory_03. Inventory.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/03. Memory Game_Problem_Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/03. Memory Game_Problem_Description.pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/03. Moving Target_Problem_Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/03. Moving Target_Problem_Description.pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/03. Plant Discovery_Problem Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/04. Exam_Условие - PDF.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/04. Functions-Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/04. Gifts from Santa_Условие - PDF.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/04.PB-Python-For-Loop-Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/05-Lists-Advanced-Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/05. Excursion Sale_Условие - PDF.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/05. Lists-Advanced.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/05. Puppy Care_Условие - PDF.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/05.PB-Python-While-Loop-Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/05.PB-Python-While-Loop-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/06. Classes-and-Objects-Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/06. Gold Mine_Условие - PDF.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/06. Sum And Product_Условие - PDF.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/06.PB-Python-Nested-Loops-Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/06.PB-Python-Nested-Loops-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/07. Dictionaries-Exercise.pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/07. Dictionaries-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/07. Dictionaries-More-Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/07. Dictionaries.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/08. Text-Processing-Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/08. Text-Processing-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/08. Text-Processing-Lab.pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/08. Text-Processing-More-Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/09. RegEx-Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/09. RegEx-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/09. RegEx-Lab.pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/1. PB-More-Simple-Operations-Exercises.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/Axantum.AxCrypt.Mac.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/Beneficial-2.pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/Exam-Preparation-September-2020.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/FL_EnglishCDLHandbook.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/02. Array Modifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/03.Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/A Miner Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Ad Astra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Add and Subtract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Array Manipulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Bakery-Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Bathroom TIles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Battery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Big Numbers Lover.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Biggest of 3 Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Bonus Scoring System.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Books.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Bread Factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Caesar Cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Calculate Rectangle Area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Calculations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Cant Sleep Count Sheep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Car Race.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Character Multiplier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Characters in Range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Chars to String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Christmas Spirit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Comment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Company Users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Computer Store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Count Chars in a String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Courses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Decipher This.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Decrypting Messages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Digits, Letters and Other.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Double Char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Drink Something.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Easter Cozonacs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Easter Gifts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Electron Distribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Elevator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Emoticon Finder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Even Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Extract File.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Factorials.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Faro Shuffle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Filtering odds positives etc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Find the Largest More exc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Football Cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/ForceBook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Gladiator Expenses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Grades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Group of 10's.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Heart Delivery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Hello France.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/How to print list no skobi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Integer Operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Inventory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Invert Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Jennys Secret Message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Josephus Permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Lambda_Map_Filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Legendary Farming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Leonardo DiCaprio Oscars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Letters Change Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Match Dates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Match Full Name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Match Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Match Phone Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Match phone numbers USA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Maximum Multiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Messaging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Mid-Ex-1.Journey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Mid-Ex-2.Gifts_for_friends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Mid-Ex-3,Shopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Moving Target.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Mu Online.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Multiples List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Mutate Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Next Happy Year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Next Version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Number Beggars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Number_to_binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Odd Occurrences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Odd and Even Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Office Chairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Orders-Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Palindrome Integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Palindrome Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Party Profit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Password Validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Perfect number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Positives and negatives.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Prime Number Checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Print Number after index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Print Part of the ASCII Table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Rage Quit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Ranking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Repeat String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Replace Repeating Chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Seize the Fire.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Smallest of Three Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/SoftUni Exam Results.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/SoftUni Parking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/SoftUni Reception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Statistics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Strange Zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/String Explosion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Student Academy-Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Sum of Chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Survival of the Biggest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Take Skip Rope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Text filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/The Imitation Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/The Lift.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/The Office.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Tips_Hints.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Todo list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Trains.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Triples of Latin Letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Valid Usernames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Water Overflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Which are in with sorted and map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Winning Ticket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Word Synonyms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Zeros to Back.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/lab01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/letterDecripting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/letterScripting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02. Array Modifier.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03.Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A Miner Task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ad Astra.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Add and Subtract.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array Manipulator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bakery-Dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bathroom TIles.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battery.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Big Numbers Lover.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biggest of 3 Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bonus Scoring System.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Books.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bread Factory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Caesar Cipher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculate Rectangle Area.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cant Sleep Count Sheep.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Car Race.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Character Multiplier.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Characters in Range.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chars to String.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Christmas Spirit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Comment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Company Users.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Computer Store.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Count Chars in a String.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Courses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decipher This.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decrypting Messages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Digits, Letters and Other.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Double Char.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drink Something.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easter Cozonacs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easter Gifts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Electron Distribution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elevator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Emoticon Finder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Even Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extract File.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factorials.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Faro Shuffle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filtering odds positives etc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Find the Largest More exc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Football Cards.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForceBook.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gladiator Expenses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grades.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group of 10's.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Heart Delivery.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello France.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/How to print list no skobi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Integer Operations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inventory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Invert Values.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jennys Secret Message.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Josephus Permutation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Map_Filter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Legendary Farming.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leonardo DiCaprio Oscars.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letters Change Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Match Dates.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Match Full Name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Match Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Match Phone Number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Match phone numbers USA.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maximum Multiple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Messaging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mid-Ex-1.Journey.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mid-Ex-2.Gifts_for_friends.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mid-Ex-3,Shopping.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moving Target.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mu Online.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multiples List.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mutate Strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Next Happy Year.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Next Version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Number Beggars.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Number_to_binary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Odd Occurrences.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Odd and Even Sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Office Chairs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Orders-Dictionaries.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Orders.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palindrome Integers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palindrome Strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Party Profit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Password Validator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Perfect number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Positives and negatives.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prime Number Checker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Print Number after index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Print Part of the ASCII Table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rage Quit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ranking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repeat String.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Replace Repeating Chars.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seize the Fire.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smallest of Three Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni Exam Results.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni Parking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni Reception.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Statistics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strange Zoo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String Explosion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student Academy-Dictionaries.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sum of Chars.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Survival of the Biggest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Take Skip Rope.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text filter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Imitation Game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Lift.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Office.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tips_Hints.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Todo list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trains.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triples of Latin Letters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Valid Usernames.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Water Overflow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Which are in with sorted and map.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Winning Ticket.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word Synonyms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zeros to Back.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zoo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/letterDecripting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/letterScripting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1s7M9r66pGxhjTcMTbiEbXfV9uk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -31,6 +347,14 @@
       <option name="presentableId" value="Default" />
       <updated>1620219025859</updated>
     </task>
+    <task id="LOCAL-00001" summary="organizing">
+      <created>1620416702649</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620416702649</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -44,5 +368,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="organizing" />
+    <option name="LAST_COMMIT_MESSAGE" value="organizing" />
   </component>
 </project>
