@@ -1,5 +1,6 @@
-Pesho <:> Red <:> 100
-Pesho <:> Blue <:> 200
-Pesho <:> Red <:> 100
-Gosho <:> Blue <:> 400
-Once upon a time
+value = 8
+answer = 0
+
+for x in range(1, 13):
+    answer = value * x
+    print("{0} times {1} is {2}".format(x, value, answer))

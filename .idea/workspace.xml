@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef24da03-855b-4156-b996-39203f952392" name="Default Changelist" comment="amended folder">
-      <change afterPath="$PROJECT_DIR$/start/Ascii Sumator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ascii Sumator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CIrcle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Email.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Even Numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Extract Person Information.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes and Objects/Extract Person Information.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Party.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranking.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes and Objects/Ranking.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sli-do.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Snowwhite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes and Objects/Snowwhite.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/The Iimitation Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists_dictionary/The Iimitation Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Treasure Finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists_dictionary/Treasure Finder.py" afterDir="false" />
+    <list default="true" id="ef24da03-855b-4156-b996-39203f952392" name="Default Changelist" comment="new">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_dictionary/Enumerate_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes and Objects/Catalogue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes and Objects/Catalogue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes and Objects/Dragon Army with class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes and Objects/Dragon Army with class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists_dictionary/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists_dictionary/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/Hi-Low-Guess-Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/start/Hi-Low-Guess-Game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
@@ -39,7 +40,9 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -47,6 +50,122 @@
       <recent name="$PROJECT_DIR$/lists_dictionary" />
       <recent name="$PROJECT_DIR$/start" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.Enumerate_example">
+    <configuration name="Catalogue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classes and Objects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes and Objects/Catalogue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dragon Army with class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classes and Objects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes and Objects/Dragon Army with class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Enumerate_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_dictionary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_dictionary/Enumerate_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hi-Low-Guess-Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/start" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/start/Hi-Low-Guess-Game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_dictionary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_dictionary/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Enumerate_example" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.Hi-Low-Guess-Game" />
+        <item itemvalue="Python.Dragon Army with class" />
+        <item itemvalue="Python.Catalogue" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -78,7 +197,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620418125251</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="orginizing">
+      <created>1620418571133</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620418571133</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new">
+      <created>1620655133385</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620655133388</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +230,35 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="organizing" />
     <MESSAGE value="amended folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="amended folder" />
+    <MESSAGE value="orginizing" />
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Classes and Objects/Dragon Army with class.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Classes and Objects/Dragon Army with class.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <condition expression="low==high" language="Python" />
+          <url>file://$PROJECT_DIR$/start/Hi-Low-Guess-Game.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/start/Hi-Low-Guess-Game.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
