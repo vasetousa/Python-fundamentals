@@ -12,7 +12,7 @@ class Catalogue:
 
     def __repr__(self):
         result = f"Items in the {self.name} catalogue:\n"
-        sorted_products = sorted(self.products)
+        sorted_products = sorted(self.products) # sorting the catalogue
         result += "\n".join(sorted_products)
         return result
 
