@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef24da03-855b-4156-b996-39203f952392" name="Default Changelist" comment="new">
+    <list default="true" id="ef24da03-855b-4156-b996-39203f952392" name="Default Changelist" comment="worked on">
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_dictionary/Enumerate_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes and Objects/Catalogue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes and Objects/Catalogue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes and Objects/Dragon Army with class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes and Objects/Dragon Army with class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists_dictionary/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists_dictionary/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start/Hi-Low-Guess-Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/start/Hi-Low-Guess-Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files/Reading_a_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Reading_a_file.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,28 +47,7 @@
       <recent name="$PROJECT_DIR$/start" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Enumerate_example">
-    <configuration name="Catalogue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fundamentals" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classes and Objects" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes and Objects/Catalogue.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Reading_a_file">
     <configuration name="Dragon Army with class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,6 +111,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Reading_a_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/Reading_a_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Reading_a_file" />
+        <item itemvalue="Python.Hi-Low-Guess-Game" />
         <item itemvalue="Python.Enumerate_example" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.Hi-Low-Guess-Game" />
         <item itemvalue="Python.Dragon Army with class" />
-        <item itemvalue="Python.Catalogue" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +207,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620655133388</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="worked on">
+      <created>1620742545324</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620742545325</updated>
+    </task>
+    <task id="LOCAL-00007" summary="worked on">
+      <created>1620742570542</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1620742570542</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,7 +242,8 @@
     <MESSAGE value="amended folder" />
     <MESSAGE value="orginizing" />
     <MESSAGE value="new" />
-    <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <MESSAGE value="worked on" />
+    <option name="LAST_COMMIT_MESSAGE" value="worked on" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
