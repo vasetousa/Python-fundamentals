@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef24da03-855b-4156-b996-39203f952392" name="Default Changelist" comment="working">
+    <list default="true" id="ef24da03-855b-4156-b996-39203f952392" name="Default Changelist" comment="amended name of file dir to scratchpad">
+      <change afterPath="$PROJECT_DIR$/Files/Binary/Binary_file_wr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/Binary/binary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/Challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/Pickle/Pickling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/table.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Files/Writing_in_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Writing_in_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists_dictionary/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists_dictionary/ScratchPad.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +51,8 @@
       <recent name="$PROJECT_DIR$/start" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Writing_in_file">
-    <configuration name="Enumerate_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Pickling">
+    <configuration name="Binary_file_wr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files/Binary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_dictionary/Enumerate_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/Binary/Binary_file_wr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Hi-Low-Guess-Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +81,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/start" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/start/Hi-Low-Guess-Game.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/Challenge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pickling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files/Pickle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/Pickle/Pickling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,27 +128,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/Reading_a_file.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ScratchPad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fundamentals" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_dictionary" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_dictionary/ScratchPad.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Pickling" />
+        <item itemvalue="Python.Binary_file_wr" />
+        <item itemvalue="Python.Challenge" />
         <item itemvalue="Python.Writing_in_file" />
         <item itemvalue="Python.Reading_a_file" />
-        <item itemvalue="Python.Hi-Low-Guess-Game" />
-        <item itemvalue="Python.Enumerate_example" />
-        <item itemvalue="Python.ScratchPad" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620814913801</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="amended name of file dir to scratchpad">
+      <created>1620815443253</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1620815443253</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,7 +278,8 @@
     <MESSAGE value="file" />
     <MESSAGE value="none" />
     <MESSAGE value="working" />
-    <option name="LAST_COMMIT_MESSAGE" value="working" />
+    <MESSAGE value="amended name of file dir to scratchpad" />
+    <option name="LAST_COMMIT_MESSAGE" value="amended name of file dir to scratchpad" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
