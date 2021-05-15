@@ -1,33 +1,61 @@
-data = input()
-store = {}
-name_counter = {}
-is_stored = False
+from collections import defaultdict
 
-while not data == "Once upon a time":
-    dwarf, hat_color, power = data.split(" <:> ")
-    power = int(power)
 
-#   Check for same name
-    if dwarf not in name_counter:
-        name_counter[dwarf] = 1
-        store[dwarf] = {hat_color: power}
-    else:           # we have same name ->>>
-        for key, value in store.copy().items():
-            for k, v in value.copy().items():
-                if k == hat_color:
-                    if v < power:
-                        store[key].update({hat_color: power})  # ako power > store the same dwarf with the new power
-                        is_stored = True
-                else:
-                    store[key].update({hat_color: power})
-        if not is_stored:
-            name_counter[dwarf] += 1
+class Dwarf:
+    def __init__(self, name: str, color: str, physics: int) -> None:
+        self.name = name
+        self.color = color
+        self.id = (name, color)
+        self.physics = physics
+        self.count = 0
 
+    def update(self, new_physics: int):
+        self.physics = new_physics
+
+    def set_count(self, c: int):
+        self.count = c
+
+    def __repr__(self) -> str:
+        return f'({self.color}) {self.name} <-> {self.physics}'
+
+
+class Order:
+    def __init__(self) -> None:
+        self.dwarfs = []
+
+    def add(self, d: Dwarf):
+        new = True
+        for dwarf in self.dwarfs:
+            if dwarf.id == d.id:
+                new = False
+                if dwarf.physics < d.physics:
+                    dwarf.update(d.physics)
+        if new:
+            self.dwarfs.append(d)
+
+    def __repr__(self) -> str:
+        dwarfs_colors = defaultdict(int)
+        for d in self.dwarfs:
+            dwarfs_colors[d.color] += 1
+
+        for dwarf in self.dwarfs:
+            dwarf.set_count(dwarfs_colors[dwarf.color])
+
+        result = []
+        for dwarf in sorted(self.dwarfs, key=lambda x: (-x.physics, -x.count)):
+            result.append(f'({dwarf.color}) {dwarf.name} <-> {dwarf.physics}')
+        nl = '\n'
+        return nl.join(result)
+
+
+o = Order()
+
+while True:
     data = input()
+    if data == 'Once upon a time':
+        break
+    name, color, physics = data.split(' <:> ')
+    physics = int(physics)
+    o.add(Dwarf(name, color, physics))
 
-sorted_powers = sorted(store.items(), key=lambda kvp: (kvp[0][1], kvp[1]))
-for key, value in sorted_powers:
-    for k, v in value.items():
-        print(f'({k}) {key} <-> {v}')
-
-print()
+print(o)

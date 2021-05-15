@@ -1,56 +1,69 @@
 from collections import defaultdict
 
-auth = {}
-contests = defaultdict(list)
 
-while True:
-    data = input()
-    if data == 'end of contests':
-        break
-    contest, password = data.split(':')
-    auth[contest] = password
+class Dragon:
+    def __init__(self, color: str, name: str, damage: int, health: int, armor: int) -> None:
+        self.id = (color, name)
+        self.color = color
+        self.name = name
+        self.health = health
+        self.damage = damage
+        self.armor = armor
 
-while True:
-    data = input()
-    if data == 'end of submissions':
-        break
-    contest, password, username, points = data.split('=>')
-    points = int(points)
-    if contest in auth:
-        if auth[contest] == password:
-            if username not in contests:
-                contests[username].append(
-                    {'contest': contest, 'points': points})
-            else:
-                new_contest = True
-                for i in range(len(contests[username])):
-                    c = contests[username][i]['contest']
-                    p = contests[username][i]['points']
-                    if c == contest:
-                        new_contest = False
-                        if p < points:
-                            contests[username][i]['points'] = points
-                        break
-                if new_contest:
-                    contests[username].append(
-                        {'contest': contest, 'points': points})
+    def __repr__(self) -> str:
+        return f'{self.id} -> {self.health}, {self.damage}, {self.armor}'
 
-users_total_points = defaultdict(int)
 
-for username, data in contests.items():
-    for i in range(len(data)):
-        users_total_points[username] += contests[username][i]['points']
+class Army:
+    def __init__(self) -> None:
+        self.dragons = defaultdict(list)
 
-for username, points in users_total_points.items():
-    if points == max(users_total_points.values()):
-        print(f'Best candidate is {username} with total {points} points.')
+    def add_dragon(self, d: Dragon):
+        new = True
+        for index, dragon in enumerate(self.dragons[d.color]):
+            if d.id == dragon.id:
+                new = False
+                self.dragons[d.color].pop(index)
+                self.dragons[d.color].insert(index, d)
+        if new:
+            self.dragons[d.color].append(d)
 
-print('Ranking:')
+    def __repr__(self) -> str:
+        result = ''
+        for color, dragons in self.dragons.items():
+            av_damage = sum([dragon.damage for dragon in dragons])/len(dragons)
+            av_health = sum([dragon.health for dragon in dragons])/len(dragons)
+            av_armor = sum([dragon.armor for dragon in dragons])/len(dragons)
+            result += f'{color}::({av_damage:.2f}/{av_health:.2f}/{av_armor:.2f})\n'
+            for dragon in sorted(dragons, key=lambda x: x.name):
+                result += f'-{dragon.name} -> damage: {dragon.damage}, health: {dragon.health}, armor: {dragon.armor}\n'
+        return result
 
-for username, data in sorted(contests.items()):
-    print(username)
 
-    for tokens in sorted(data, key=lambda x: -x['points']):
-        contest = tokens['contest']
-        points = tokens['points']
-        print(f'#  {contest} -> {points}')
+def gen_dragon(dragon_data: list) -> Dragon:
+    color: str = dragon_data[0]
+    name: str = dragon_data[1]
+    if dragon_data[2] == 'null':
+        damage = 45
+    else:
+        damage = int(dragon_data[2])
+    if dragon_data[3] == 'null':
+        health = 250
+    else:
+        health = int(dragon_data[3])
+    if dragon_data[4] == 'null':
+        armor = 10
+    else:
+        armor = int(dragon_data[4])
+    return Dragon(color, name, damage, health, armor)
+
+
+n = int(input())
+
+a = Army()
+
+for _ in range(n):
+    dragon_data = input().split()
+    a.add_dragon(gen_dragon(dragon_data))
+
+print(a)
