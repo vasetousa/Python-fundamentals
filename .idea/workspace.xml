@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef24da03-855b-4156-b996-39203f952392" name="Default Changelist" comment="amended name of file dir to scratchpad">
-      <change afterPath="$PROJECT_DIR$/Files/Binary/Binary_file_wr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/Binary/binary" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/Challenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/Pickle/Pickling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/table.txt" afterDir="false" />
+    <list default="true" id="ef24da03-855b-4156-b996-39203f952392" name="Default Changelist" comment="new material">
+      <change afterPath="$PROJECT_DIR$/Classes and Objects/Kettle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modules_import/Turtle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem conditions/01._Ranking_Условия.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/Writing_in_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Writing_in_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists_dictionary/Ranking.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists_dictionary/Ranking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists_dictionary/ScratchPad.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists_dictionary/ScratchPad.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +50,8 @@
       <recent name="$PROJECT_DIR$/start" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Pickling">
-    <configuration name="Binary_file_wr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Ranking">
+    <configuration name="Kettle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,32 +59,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files/Binary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classes and Objects" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/Binary/Binary_file_wr.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fundamentals" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/Challenge.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes and Objects/Kettle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Reading_a_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ranking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/Reading_a_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_dictionary/Ranking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Writing_in_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ScratchPad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,11 +122,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/Writing_in_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_dictionary/ScratchPad.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Turtle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modules_import" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modules_import/Turtle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Ranking" />
+        <item itemvalue="Python.ScratchPad" />
+        <item itemvalue="Python.Kettle" />
+        <item itemvalue="Python.Turtle" />
         <item itemvalue="Python.Pickling" />
-        <item itemvalue="Python.Binary_file_wr" />
-        <item itemvalue="Python.Challenge" />
-        <item itemvalue="Python.Writing_in_file" />
-        <item itemvalue="Python.Reading_a_file" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620815443253</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="new material">
+      <created>1620902370600</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1620902370612</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -279,7 +285,8 @@
     <MESSAGE value="none" />
     <MESSAGE value="working" />
     <MESSAGE value="amended name of file dir to scratchpad" />
-    <option name="LAST_COMMIT_MESSAGE" value="amended name of file dir to scratchpad" />
+    <MESSAGE value="new material" />
+    <option name="LAST_COMMIT_MESSAGE" value="new material" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -304,6 +311,16 @@
           <url>file://$PROJECT_DIR$/start/Hi-Low-Guess-Game.py</url>
           <line>25</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lists_dictionary/ScratchPad.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lists_dictionary/ScratchPad.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
