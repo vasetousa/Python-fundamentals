@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef24da03-855b-4156-b996-39203f952392" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Classes and Objects/Accounts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes and Objects/Kettle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes and Objects/Kettle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists_dictionary/ScratchPad.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists_dictionary/ScratchPad.py" afterDir="false" />
+    <list default="true" id="ef24da03-855b-4156-b996-39203f952392" name="Default Changelist" comment="new code">
+      <change beforePath="$PROJECT_DIR$/Classes and Objects/Accounts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes and Objects/Accounts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes and Objects/Snowwhite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes and Objects/Snowwhite.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -271,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621114921279</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="new code">
+      <created>1621162431370</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1621162431370</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

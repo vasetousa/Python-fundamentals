@@ -43,7 +43,7 @@ class Order:
 
         result = []
         for dwarf in sorted(self.dwarfs, key=lambda x: (-x.physics, -x.count)):
-            result.append(f'({dwarf.color}) {dwarf.name} <-> {dwarf.physics}')
+            result.append(f'({dwarf.color}) {dwarf._name} <-> {dwarf.physics}')
         nl = '\n'
         return nl.join(result)
 
