@@ -129,4 +129,9 @@
 # pprint(matrix) prints the matrix properly
 
 
-print(" ".join(str(x) for x in row))   # reverse the ints to strings to be able to .join()
+print(" ".join(str(x) for x in row))  # reverse the ints to strings to be able to .join()
+
+# Create a matrix to be updated later on:
+# matrix = []
+# for r in range(rows):
+#    matrix.append([0 for el in range(cols)])
