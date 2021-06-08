@@ -129,9 +129,50 @@
 # pprint(matrix) prints the matrix properly
 
 
-print(" ".join(str(x) for x in row))  # reverse the ints to strings to be able to .join()
+# print(" ".join(str(x) for x in row))  # reverse the ints to strings to be able to .join()
 
 # Create a matrix to be updated later on:
 # matrix = []
 # for r in range(rows):
 #    matrix.append([0 for el in range(cols)])
+
+# COMPREHENSIONS
+
+# dictionary comprehension:
+# country_names = input().split(', ')
+# capitals = input().split(', ')
+# pair = {country: capital for country, capital in zip(country_names, capitals)}
+#
+# info = [("Peter", 22), ("Amy", 18), ("George", 35)]
+# dictionary = {key:value for (key, value) in info}
+# {'Peter': 22, 'Amy': 18, 'George': 35}
+#
+# nums = [1, 2, 3]
+# cubes = {num:num ** 3 for num in nums}
+# # {1: 1, 2: 8, 3: 27}
+
+# - list comprehensions:
+# x = [mum for num in range(5)]
+# [0, 1, 2, 3, 4]
+# - list comprehension with if-else:
+# nums = [1, 2, 3, 4, 5, 6]
+# filtered = [True if num % 2 == 0 else False for num in nums]
+
+# - set comprehensions: -----> same like list but use curly brackets "{}"
+# nums = [1, 2, 3, 4, 4, 5, 6, 2, 1]
+# unique = {num for num in nums}
+# {1, 2, 3, 4, 5, 6}
+
+# - nested list comprehensions: (matrix)
+# matrix = [[j for j in range(3)] for i in range(4)]
+# # [[0, 1, 2], [0, 1, 2], [0, 1, 2], [0, 1, 2]]
+#
+# - flattening a matrix:
+# matrix = [[1, 2, 3], [4, 5, 6]]
+# flattened = [num for sublist in matrix for num in
+# sublist]
+# # [1, 2, 3, 4, 5, 6]
+
+
+
+
