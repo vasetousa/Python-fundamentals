@@ -42,7 +42,7 @@ class Order:
             dwarf.set_count(dwarfs_colors[dwarf.color])
 
         result = []
-        for dwarf in sorted(self.dwarfs, key=lambda x: (-x.physics, -x.count)):
+        for dwarf in sorted(self.dwarfs, key=lambda x: (-x.physics, -x.lett_count)):
             result.append(f'({dwarf.color}) {dwarf._name} <-> {dwarf.physics}')
         nl = '\n'
         return nl.join(result)

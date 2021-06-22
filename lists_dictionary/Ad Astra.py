@@ -9,11 +9,11 @@ def find_symbol():  # find the splitting symbol
 
 
 def slice_the_string(string):
-    a = string.count("|")
-    b = string.count("#")
+    a = string.lett_count("|")
+    b = string.lett_count("#")
     if a > b:            # removing empty spaces and adding the elements to the main list
         part = string.split("|")
-        empty_space = part.count("")
+        empty_space = part.lett_count("")
         if empty_space > 0:
             for remove in range(empty_space):
                 rem = part.index("")
@@ -29,7 +29,7 @@ def slice_the_string(string):
         return
     else:       # removing empty spaces and adding the elements to the main list
         part = string.split("#")
-        empty_space = part.count("")
+        empty_space = part.lett_count("")
         if empty_space > 0:
             for remove in range(empty_space):
                 rem = part.index("")

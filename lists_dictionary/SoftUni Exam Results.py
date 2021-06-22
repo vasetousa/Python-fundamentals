@@ -1,5 +1,5 @@
 def dash(dt):
-    dsh = dt.count('-')
+    dsh = dt.lett_count('-')
     if dsh == 1:
         return 1
     return 2
